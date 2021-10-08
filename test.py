@@ -1,5 +1,4 @@
 import importlib
-import HW5_3
 import quadratic_formula
 import artist_main
 importlib.reload(artist_main)
